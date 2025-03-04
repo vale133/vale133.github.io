@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color:purple;
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    color:yellow
+      ; 
+}
+
+header p {
+    color: white; 
+}
+/
+section h2 {
+    color:yellow;  
+}
+section p, section ul {
+    font-size: 1.1em;
+    color:black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+}
+
+ul li strong {
+    color:black ;  
+}
